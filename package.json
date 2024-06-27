@@ -1,0 +1,17 @@
+{
+  "name": "react-configuration",
+  "version": "1.0.0",
+  "description": "any text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Davit Sargsyan",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "^5.0.1",
+    "antd": "5.18.3"
+  }
+}
